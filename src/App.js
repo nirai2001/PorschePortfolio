@@ -8,6 +8,7 @@ import  {Route, BrowserRouter as Router, Routes} from "react-router-dom"
 import Navbar from './Components/Navbar';
 import Home from './Pages/Home';
 import {About,Projects,Contact} from "./Pages";
+//nirai
 function App() {
   return (
     <main>
